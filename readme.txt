@@ -6,4 +6,4 @@ My stupid boss still prefers SVN.
 Git remote 
 Creating a new branch is quick and simple.
 
-Git hhh.
+Git dev has not complish.
